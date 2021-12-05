@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FF6EncounterRatePatch", "FF6EncounterRatePatch.csproj", "{CED245C6-7745-42FD-8548-DD0FF9D21A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED245C6-7745-42FD-8548-DD0FF9D21A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED245C6-7745-42FD-8548-DD0FF9D21A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED245C6-7745-42FD-8548-DD0FF9D21A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED245C6-7745-42FD-8548-DD0FF9D21A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19CD171B-82D7-4574-AAAF-C099FE1A53DD}
+	EndGlobalSection
+EndGlobal
