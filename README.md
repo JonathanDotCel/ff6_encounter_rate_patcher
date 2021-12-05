@@ -27,7 +27,8 @@ Drag your .nes onto the .exe
 
 ## Linux & Mac OS
 
-DotNET has native support from MS in Linux and Mac
+DotNET has native support from MS in Linux and Mac.
+
 Install dotnet 3.1 and run the .exe via that (you shouldn't need to recompile).
 
 
