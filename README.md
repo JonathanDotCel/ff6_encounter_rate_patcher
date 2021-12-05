@@ -3,15 +3,15 @@ Lowers the encounter rate in Final Fantasy 6, so you can enjoy the music, story,
 
 I got absolutely sick of every thread on "Can we fix the encounter rate a bit?" turning into
 
-'"Oh you're such a noob"'
+`"Oh you're such a noob"`
 
-'"Games were just like this"'
+`"Games were just like this"`
 
-'"Hah, you thought that was bad, you should try this..."'
+`"Hah, you thought that was bad, you should try this..."`
 
-'"Oh, try this other game instead."'
+`"Oh, try this other game instead."`
 
-'"Hah you can walk TEN spaces? in <shitty old game> you can barely walk 3! And we loved it. 10 miles up and down a hill every day... and we had to suck it out of a damp newspaper"'
+`"Hah you can walk TEN spaces? in <shitty old game> you can barely walk 3! And we loved it. 10 miles up and down a hill every day... and we had to suck it out of a damp newspaper"`
 
 https://steamcommunity.com/app/382900/discussions/0/1741140266533370446/
 
