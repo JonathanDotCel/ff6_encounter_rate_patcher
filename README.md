@@ -35,3 +35,6 @@ Install dotnet 3.1 and run the .exe via that (you shouldn't need to recompile).
 
 Not sure how to deal with the potential for missing headers, or various relocations (fan translations) with a regular patch file. This was safer.
 
+
+## Credit:
+Big love to `abyssonym` for just randomly dumping the rough offsets in the middle of a forum post!
